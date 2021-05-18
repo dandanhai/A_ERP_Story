@@ -1,0 +1,36 @@
+[
+  {
+    "path": "posts/welcome/",
+    "title": "Welcome to A_ERP_Story",
+    "description": "Welcome to our new blog, A_ERP_Story. We hope you enjoy \nreading what we have to say!",
+    "author": [
+      {
+        "name": "Nora Jones",
+        "url": "https://example.com/norajones"
+      }
+    ],
+    "date": "2021-05-18",
+    "categories": [],
+    "contents": "\n\n\n\n",
+    "preview": {},
+    "last_modified": "2021-05-18T20:57:24+08:00",
+    "input_file": {}
+  },
+  {
+    "path": "posts/2021-05-18-casea/",
+    "title": "case_a",
+    "description": "This is an reference on each candidate resume.You can think about which candidate is best fit for the IT project in your mind. We will have a survey discussion on our presentation Q&A part.",
+    "author": [
+      {
+        "name": "Group 7",
+        "url": "https://example.com/norajones"
+      }
+    ],
+    "date": "2021-05-18",
+    "categories": [],
+    "contents": "\n\nContents\nCandidate A\nCandidate B\nCandidate C\n\nAux BonsSoin(ABS) is a Montreal insurance company.\nJean Roberge, the VP of IT, had obtained approval to implement an Integrated Management Systems and Processes (IMSP) project, which was an ERP system for the group integrating the HR, Finance and Sales & Marketing functions as one entity.\n\n\n\nWe aim the select the best candidate for the IMSP project base on\n\n\n\nCandidate A\n\n\n\n\n\n\nCandidate B\n\n\n\n\n\n\nCandidate C\n\n\n\n\n\n\n\n\n\n",
+    "preview": "posts/2021-05-18-casea/case_photo/1.PNG",
+    "last_modified": "2021-05-18T21:12:30+08:00",
+    "input_file": "casea.utf8.md"
+  }
+]

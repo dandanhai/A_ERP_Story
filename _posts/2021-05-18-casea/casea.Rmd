@@ -1,0 +1,65 @@
+---
+title: "case_a"
+description: |
+  This is an reference on each candidate resume.You can think about which candidate is best fit for the IT project in your mind. We will have a survey discussion on our presentation Q&A part.
+author:
+  - name: Group 7
+    url: https://example.com/norajones
+date: 05-18-2021
+output:
+  distill::distill_article:
+    toc: true
+    toc_depth: 4
+    self_contained: false
+---
+
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+```
+
+
+**Aux BonsSoin(ABS) is a Montreal insurance company.**
+
+**Jean Roberge, the VP of IT, had obtained approval to implement an Integrated Management Systems and Processes (IMSP) project, which was an ERP system for the group integrating the HR, Finance and Sales & Marketing functions as one entity.**
+
+```{r, out.width='100%',fig.align='center'}
+knitr::include_graphics('case_photo/1.PNG')
+```
+
+
+**We aim the select the best candidate for the IMSP project base on**
+
+```{r, out.width='50%',fig.align='center'}
+knitr::include_graphics('case_photo/Picture_1.PNG')
+```
+
+# Candidate A
+```{r, out.width='100%',fig.align='center'}
+knitr::include_graphics('case_photo/2.PNG')
+```
+
+```{r, out.width='70%',fig.align='center'}
+knitr::include_graphics('case_photo/3.PNG')
+```
+
+
+# Candidate B
+
+```{r, out.width='100%',fig.align='center'}
+knitr::include_graphics('case_photo/4.PNG')
+```
+
+```{r, out.width='100%',fig.align='center'}
+knitr::include_graphics('case_photo/5.PNG')
+```
+
+# Candidate C
+
+```{r, out.width='100%',fig.align='center'}
+knitr::include_graphics('case_photo/6.PNG')
+```
+
+```{r, out.width='100%',fig.align='center'}
+knitr::include_graphics('case_photo/7.PNG')
+```
